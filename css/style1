@@ -1,0 +1,10 @@
+
+
+
+ol ol, ol ul, ul ol, ul ul{ margin-top:0; margin-bottom:0; }
+
+ol li{	list-style:decimal }
+ol li ol li{ list-style:upper-alpha; }
+ol li ol li ol li{ list-style:upper-roman; }
+
+ul li{ list-style:disc;}
